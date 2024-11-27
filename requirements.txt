@@ -1,0 +1,7 @@
+customtkinter
+openpyxl
+unidecode
+xlwings
+pandas
+codecs
+logging
